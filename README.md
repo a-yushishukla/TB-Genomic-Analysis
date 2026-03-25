@@ -21,3 +21,6 @@ We achieved **10x depth** across the *katG* gene snippet, ensuring high confiden
 
 ## Clinical Significance
 High coverage in the *katG* gene is essential for identifying the **S315T mutation**, which is the primary driver for Isoniazid resistance in TB patients.
+
+## 🔬 Final Discovery: Variant Calling
+Using `bcftools`, we successfully identified a **G -> C Single Nucleotide Polymorphism (SNP)** at the resistance-determining region of the *katG* gene. This confirms the presence of **Isoniazid resistance** in the simulated patient sample.
