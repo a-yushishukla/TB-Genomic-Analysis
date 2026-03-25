@@ -24,3 +24,7 @@ High coverage in the *katG* gene is essential for identifying the **S315T mutati
 
 ## 🔬 Final Discovery: Variant Calling
 Using `bcftools`, we successfully identified a **G -> C Single Nucleotide Polymorphism (SNP)** at the resistance-determining region of the *katG* gene. This confirms the presence of **Isoniazid resistance** in the simulated patient sample.
+
+### 4. Mutation Visualization
+The image below visualizes the 'stack' of patient reads at the mutation site. The consistent appearance of **C** (Red) against the Reference **G** (Green) confirms a high-confidence variant call.
+![Mutation Plot](results/mutation_visualization.png)
